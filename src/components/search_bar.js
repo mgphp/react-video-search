@@ -19,9 +19,11 @@ class SearchBar extends Component {
       );
   }
 
-  onInputChange(e) {
-
-  }
+  // onInputChange(e) {
+  //   //console.log(e.target.value);
+  //
+  //   this.setState({term: e.target.value})
+  // }
 }
 
 export default SearchBar;
